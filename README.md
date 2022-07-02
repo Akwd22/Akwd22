@@ -40,6 +40,3 @@ Below, the technologies I'm comfortable and already worked with.
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akwd22&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
