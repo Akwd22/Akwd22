@@ -11,6 +11,19 @@ In my GitHub, you can find my personal and academic projects; each of one are do
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eddy-druet-b5b065207) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Akwd#6098)
 
+## My Repos
+To make it easier to navigate, my repos are [listed by category](https://github.com/Akwd22?tab=stars):
+
+<div align="center">
+
+  [🌐 Web Development](https://github.com/stars/Akwd22/lists/my-repos-web-projects) ·
+  [💻 Software Development](https://github.com/stars/Akwd22/lists/my-repos-software-projects) ·
+  [🎮 Game Development](https://github.com/stars/Akwd22/lists/my-repos-game-projects) ·
+  [⚙️ Forks & Contributions](https://github.com/stars/Akwd22/lists/my-repos-forks-contribut)
+  
+</div>
+
+
 ## Tech Stack
 Below, the technologies I'm comfortable and already worked with.
 
