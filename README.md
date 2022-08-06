@@ -9,7 +9,7 @@ In my GitHub, you can find my personal and academic projects; each of one are do
 - [x] Passionate to produce great quality projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eddy-druet-b5b065207) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Akwd#6098)
+![Discord](https://img.shields.io/badge/Akwd%236098-%237289DA.svg?logo=discord&logoColor=white)
 
 ## My Repos
 To make it easier to navigate, my repos are [listed by category](https://github.com/Akwd22?tab=stars):
