@@ -1,4 +1,4 @@
-![Header](./header-image.png)
+![Header](./header-image.svg)
 
 I'm a fullstack web developer mostly self-taught for 2 years now.
 In my GitHub, you can find my personal and academic projects; each of one are documented.
