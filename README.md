@@ -8,7 +8,7 @@ In my GitHub, you can find my personal and academic projects; each of one are do
 - [x] Paranoid about clean code, convention, and quality,
 - [x] Passionate to produce great quality projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eddy-druet-b5b065207) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddy-druet/) 
 ![Discord](https://img.shields.io/badge/Akwd%236098-%237289DA.svg?logo=discord&logoColor=white)
 
 ## My Repos
