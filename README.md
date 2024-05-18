@@ -26,6 +26,7 @@ To make it easier to navigate, my repos are [listed by category](https://github.
 ## Tech Stack
 Below, the technologies I'm comfortable and already worked with.
 
+<!--- Badges : https://github.com/Ileriayo/markdown-badges -->
 ### ⌨️ Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -43,4 +44,5 @@ Below, the technologies I'm comfortable and already worked with.
 
 ### 🔧 Tools
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
